@@ -1,4 +1,9 @@
-# FinTech Operations Case Study
+# QuickPay FinTech Operations Case Study
+## Submission Details
+
+* **Student Name:** Brijen Sudhir Shinde
+* **Student ID:**  BITSoM_FTAI_2601046
+* **GitHub Repository:** https://github.com/binny-code/Fintech_pipeline
 
 ## Overview
 
@@ -178,6 +183,28 @@ The dashboard was built using multiple datasets, each serving a specific purpose
 
 ---
 
+
+
+## How to Run the Project
+
+1. Open the repository and explore folders
+2. Run `fintech_pipeline.ipynb`
+3. Execute SQL queries in any SQL tool
+4. Open Looker dashboard link
+
+---
+
+## Tools Used
+
+* Google Sheets / Excel
+* SQL (SQLite)
+* Python (Pandas)
+* Looker Studio
+* Git & GitHub
+
+---
+
 ## Final Note
 
 This project was built step-by-step with a focus on clarity, correctness, and real-world applicability. The goal was not just to complete tasks, but to structure the solution in a way that reflects how data workflows operate in an actual fintech environment.
+
