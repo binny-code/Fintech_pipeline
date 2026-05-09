@@ -1,4 +1,4 @@
-# QuickPay FinTech Operations Case Study
+# FinTech Operations Case Study
 
 ## Overview
 
